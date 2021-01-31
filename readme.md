@@ -8,12 +8,14 @@ It's pretty easy
 
 # what does it create????
 ----
+
 devenv creates:
-->source
-->includes
-->assets
-->build
-->readme
+source
+includes
+assets
+build
+readme.md
+
 ----
 # how to use
 
