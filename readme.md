@@ -6,7 +6,7 @@ this app works for linux based system, and what it does is creates a development
 It's pretty easy
 
 
-# what is does it create?
+# what does it create????
 ----
 devenv creates:
 ->source
