@@ -23,8 +23,8 @@ readme.md
 ----
 # how to use
 
-this is made in nasm! so creating it is pretty quick and easy!
-write ./devenv to create!
+
+write ./devenv to create.
 
 ---
 # how to delete?
