@@ -2,11 +2,9 @@
 
 -----------
 # ALERT
-this app works for linux based system, and what it does is creates a development env for you.
-It's pretty easy
+This app works for linux based systems, and what it does is creates a development environment for you.
 
-
-# what does it create????
+# Creates
 ----
 
 devenv creates:
@@ -21,8 +19,7 @@ build
 readme.md
 
 ----
-# how to use
-
+# How to create?
 
 write ./devenv to create.
 
@@ -30,8 +27,7 @@ write ./devenv to create.
 # how to delete?
 
 write ./delenv in the directory it was created.
-it'll delete everything... that the ./devenv created.
-
+ 
 ---
 # LISENCE
 there is none, do whatever, but I'm not going to give you extra services such as a warranty. 
